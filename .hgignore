@@ -1,0 +1,25 @@
+syntax: glob
+
+.externals
+dev/asio
+dev/asio_mxxru
+dev/catch
+dev/clara
+dev/cmake_build*
+dev/cpp_util_3
+dev/fmt
+dev/fmt_mxxru
+dev/nodejs
+dev/restinio
+dev/target
+dev/target_*
+dev/tmp
+cmake_build/*
+o/*
+tmp
+./wiki
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.log
+dev/local-build.rb
