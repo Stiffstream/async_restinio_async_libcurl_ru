@@ -31,7 +31,7 @@ Linux или FreeBSD. Под Windows примеры не проверялись.
 
 1. Устанавливаем Ruby и RubyGems (обычно RubyGems идет сразу с Ruby, но где-то может придется ставить отдельно).
 2. Устанавливаем MxxRu: `gem install Mxx_ru`
-3. Делаем hg clone: `hg clone https://bitbucket.org/sobjectizerteam/async_restinio_async_libcurl_ru`
+3. Делаем git clone: `git clone https://github.com/Stiffstream/async_restinio_async_libcurl_ru`
 4. Заходим в нужный подкаталог: `cd async_restinio_async_libcurl_ru`
 5. Запускаем команду `mxxruexternals`.
 6. Ждем пока все зависимости подтянутся.
